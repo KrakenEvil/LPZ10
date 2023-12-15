@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="Hint">Напишите здесь заметку</string>
+    <string name="Text">Другая заметка</string>
+    <string name="text2">Это последняя страница </string>
+    <string name="back">Назад</string>
+</resources>
